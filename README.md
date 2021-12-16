@@ -21,6 +21,16 @@ I used his libs and also was peeking at his code to make my `FOURIER` working
 on `STM32F429I-DISCO`!
 
 
+## Most notable input signals processed by this software
+
+This software was battle tested with i.a.:
+1. [main theme](https://www.youtube.com/watch?v=h1PfrmCGFnk) of ["The Good the
+   Bad and the Ugly"
+   movie](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly) by
+   [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone)
+2. 3,3 kW three phase induction motor
+
+
 ## Few more words about my engineering thesis
 
 *Subject:* Project of monitoring system of electric drive using microcontroller
@@ -39,3 +49,4 @@ and monitoring systems is given as well.
 ![schematic diagram](docs/img/schematic_diagram.png)
 ![mounting plate design](docs/img/mounting_plate_design.png)
 ![Monitoring System](docs/img/final_effect.jpg)
+![battle tested](docs/img/battle_test.png)
