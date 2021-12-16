@@ -47,6 +47,7 @@ and monitoring systems is given as well.
 ![FOURIER](docs/img/fourier.png)
 ![block diagram](docs/img/block_diagram.png)
 ![schematic diagram](docs/img/schematic_diagram.png)
+![circuit board design](docs/img/circuit_board_design.png)
 ![mounting plate design](docs/img/mounting_plate_design.png)
 ![Monitoring System](docs/img/final_effect.jpg)
 ![battle tested](docs/img/battle_test.png)
