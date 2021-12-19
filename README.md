@@ -24,11 +24,8 @@ on `STM32F429I-DISCO`!
 ## Most notable input signals processed by this software
 
 This software was battle tested with i.a.:
-1. [main theme](https://www.youtube.com/watch?v=h1PfrmCGFnk) of ["The Good the
-   Bad and the Ugly"
-   movie](https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly) by
-   [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone)
-2. 3,3 kW three phase induction motor
+1. main theme of "The Good the Bad and the Ugly" movie - [DEMO HERE](https://drive.google.com/file/d/1H9NPi3NDwswRtEBZW0jPt0sCEHsGUZMP/view?usp=sharing)
+2. [3,3 kW three phase induction motor](docs/img/battle_test.png)
 
 
 ## Few more words about my engineering thesis
